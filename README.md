@@ -31,4 +31,6 @@ Create a new file called `install_jenkins.sh` using `nano` or your preferred tex
 
 ```bash
 nano install_jenkins.sh
+chmod +x install_jenkins.sh
+bash install_jenkins.sh
 
